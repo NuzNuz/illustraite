@@ -30,5 +30,6 @@ This application is built using a MERN (MongoDB, Express.js, React.js, Node.js) 
 - You will be redirected to the hompage, where you will see your photo displayed, and you can no downlaod the image!
 
 *Attempting to prompt the generator to generate explicit content is forbidden, and will result in a failure to produce the image
+
 **It takes around 10 seconds to load in all the images from the server, so please be patient. The application works, just give it a little time. You dont have to wait for the images to load in to 
 create your own image and share it.
